@@ -1,0 +1,81 @@
+<tiltviewergallery>
+	<photos>
+		<photo imageurl="./img/1.jpg" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>Ginga Bungaa Boo :P :P :)</description>
+		</photo>
+		<photo imageurl="./img/2.jpg" linkurl="http://www.google.com">
+			<title>Image 2</title>
+			<description><![CDATA[This is a HTML text description. Supported tags are <b>bold</b>, <u>underline</u>, <i>italics</i>, linebreaks<br>and <font color="#ff0000" size="60">font tags</font>. Hyperlinks are not supported.]]></description>
+		</photo>
+		<photo imageurl="./img/3.jpg" >
+			<title>Image 3</title>
+		<description>This image has no link button because the 'linkurl' property was removed from the photo tag</description>			
+		</photo>
+		<photo imageurl="./img/4.jpg" linkurl="http://www.google.com" showFlipButton="false">
+			<title>Image 4</title>
+			<description>This image has no flip button because the 'showFlipButton' property was added to the photo tag</description>			
+		</photo>
+		<photo imageurl="./img/5.jpg" linkurl="http://www.google.com">
+			<title>Image 5</title>			
+		</photo>
+		<photo imageurl="./img/6.jpg" linkurl="http://www.google.com">
+			<title>Image 6</title>			
+		</photo>
+		<photo imageurl="./img/7.jpg" linkurl="http://www.google.com">
+			<title>Image 7</title>			
+		</photo>
+		<photo imageurl="./img/8.jpg" linkurl="http://www.google.com">
+			<title>Image 8</title>			
+		</photo>
+		<photo imageurl="./img/15.jpg" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>Ginga Bungaa Boo :P :P :)</description>
+		</photo>
+		<photo imageurl="./img/16.jpg" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>Ginga Bungaa Boo :P :P :)</description>
+		</photo>
+		<photo imageurl="./img/17.jpg" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>Ginga Bungaa Boo :P :P :)</description>
+		</photo>
+		<photo imageurl="./img/18.jpg" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>Ginga Bungaa Boo :P :P :)</description>
+		</photo>
+		<photo imageurl="./img/9.jpg" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>Ginga Bungaa Boo :P :P :)</description>
+		</photo>
+		<photo imageurl="./img/10.jpg" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>Ginga Bungaa Boo :P :P :)</description>
+		</photo>
+		<photo imageurl="./img/11.jpg" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>Ginga Bungaa Boo :P :P :)</description>
+		</photo>
+		<photo imageurl="./img/12.jpg" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>Ginga Bungaa Boo :P :P :)</description>
+		</photo>
+	
+		<photo imageurl="./img/14.jpg" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>Ginga Bungaa Boo :P :P :)</description>
+		</photo>
+		<photo imageurl="./img/math-quiz.jpg" linkurl="http://www.google.com">
+			<title>Image 9</title>			
+		</photo>
+		<photo imageurl="./img/dumb-charades.jpg" linkurl="http://www.google.com">
+			<title>Image 10</title>			
+		</photo>
+		<photo imageurl="./img/c-debugging.jpg" linkurl="http://www.google.com">
+			<title>Image 11</title>			
+		</photo>
+		<photo imageurl="./img/paperpresentation.jpg" linkurl="http://www.google.com">
+			<title>Image 12</title>			
+		</photo>		
+	</photos>
+</tiltviewergallery>
